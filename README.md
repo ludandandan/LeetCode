@@ -9,4 +9,4 @@ LeetCode题解
 # 字符串问题
 | ID | Title                                  |           C++             |      难度       |          备注               |
 |:--:|:--------------------------------------:|:-------------------------:|:---------------|:---------------------------:|
-|0008|String to Integer(atoi)|[题解]()|:star: :star: :star:|注意细节，溢出|
+|0008|String to Integer(atoi)|[题解](https://github.com/ludandandan/LeetCode/blob/master/8atoi.md)|:star: :star: :star:|注意细节，溢出|
