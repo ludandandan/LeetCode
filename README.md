@@ -15,4 +15,5 @@ LeetCode题解
 |0028|strStr|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/28strStr.md)|:star: :star: :star:|字符串匹配，KMP|
 |0125|Valid Palindrome|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/125ValidPalindrome.md)|:star:|有效回文，小写字母转换|
 |0005|Longest Palindromic Substring|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/5LongestPalindromicSubstring.md)|:star: :star: :star:|最长回文子串，Manacher算法|
+|0010|RegularExpressionMatching|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/10RegularExpressionMatching.md)|:star: :star: :star:|正则表达式匹配，dp|
 
