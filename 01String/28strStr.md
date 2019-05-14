@@ -1,5 +1,5 @@
 # Implement strStr()
-[完整代码]()
+[完整代码](https://github.com/ludandandan/LeetCode/blob/master/01String/strStr.cpp)
 
 **题目：**
 [leetCode](https://leetcode.com/problems/implement-strstr/)

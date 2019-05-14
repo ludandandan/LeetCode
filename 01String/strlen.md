@@ -1,6 +1,6 @@
 # strlen
 
-[完整代码](https://github.com/ludandandan/LeetCode/blob/master/strlen.cpp)
+[完整代码](https://github.com/ludandandan/LeetCode/blob/master/01String/strlen.cpp)
 
 **题目：**
 
