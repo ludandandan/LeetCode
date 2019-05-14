@@ -13,4 +13,5 @@ LeetCode题解
 |----|strlen|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/strlen.md)|:star: :star: :star:|const char，size_t类型|
 |----|strcpy|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/strcpy.md)|:star: :star: :star:|字符串复制，返回值，赋值语句|
 |0028|strStr|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/28strStr.md)|:star: :star: :star:|字符串匹配，KMP|
+|0125|Valid Palindrome|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/125ValidPalindrome.md)|:star:|有效回文，小写字母转换|
 
