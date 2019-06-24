@@ -1,5 +1,5 @@
 # Multiply Strings
-[完整代码]()
+[完整代码](https://github.com/ludandandan/LeetCode/blob/master/01String/43MultiplyStrings.cpp)
 
 **题目：**
 

@@ -20,6 +20,7 @@ LeetCode题解
 |0013|Roman to Integer|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/13RomanToInt.md)|:star:|哈希表|
 |0014|Longest Common Prefix|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/14LongestCommonPrefix.md)|:star:||
 |0038|Count and Say|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/38CountAndSay.md)|:star:||
+|0043|Multiply Strings|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/43MultiplyStrings.md)|:star: :star:|大数相乘|
 |0044|Wild Card Matching|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/44WildCardMatching.md)|:star:||
 |0049|Group Anagrams|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/49GroupAnagrams.md)|:star:||
 |0058|Length of Last Word|[题解](https://github.com/ludandandan/LeetCode/blob/master/01String/58LengthOfLastWord.md)|:star:||
