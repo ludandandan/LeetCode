@@ -44,7 +44,7 @@ public:
                 res += c;
             }
         }
-        return res;
+        return res.empty()?"0":res;//结果若是空的，那么返回0
     }
 };
 
